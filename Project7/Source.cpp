@@ -15,5 +15,6 @@ int main()
 
 	printf("\nSucessor de %d = %d\n", numero, (numero + 1));
 
+
 	system("pause");
 }
